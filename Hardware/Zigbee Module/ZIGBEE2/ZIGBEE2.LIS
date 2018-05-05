@@ -1,8 +1,10 @@
 AutoECO Report
-FILE-A: D:\TAI LIEU\DO AN\ZIGBEE2\ZIGBEE2.MAX
-FILE-B: D:\TAI LIEU\DO AN\ZIGBEE2\ZIGBEE2.MNL
+FILE-A: C:\USERS\THANH\DESKTOP\HARDWARE\ZIGBEE MODULE\ZIGBEE2\ZIGBEE2.MAX
+FILE-B: C:\USERS\THANH\DESKTOP\HARDWARE\ZIGBEE MODULE\ZIGBEE2\ZIGBEE2.MNL
 If "*EOF*" immediately follows, no changes were made
-Adding package SW_KEY-SPST
-Adding component SW1
+Deleting S3.2 from net 4.2V
+Adding J4.1 to net 4.2V
+Deleting component S3
+Deleting net N170530
 *EOF*
 No errors found
